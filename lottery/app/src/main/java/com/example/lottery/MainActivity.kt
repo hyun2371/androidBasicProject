@@ -64,6 +64,6 @@ class MainActivity : AppCompatActivity() {
             lottoNum.backgroundTintList=ColorStateList.valueOf(Color.rgb(155,208,183))
         }
 
-
+    numbers.clear()
     }
 }
